@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\A634941\Desktop\Bluetooth1\Bluetooth1\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4d6f6cfe35948983c6e406d5d40a2bdb385cb386">
+        <dex dex="C:\Users\A634941\Desktop\Bluetooth1\Bluetooth1\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_df0060dc0ffedcd8e12d1368897f4f488c4f4c89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A634941\Desktop\Bluetooth1\Bluetooth1\libs\junit-4.12.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="C:\Users\A634941\Desktop\Bluetooth1\Bluetooth1\build\intermediates\transforms\dex\debug\folders\1000\2\junit-4.12_75d7b8fe155e51c17836caeef8e3fc6fba9ca02c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\A634941\Desktop\Bluetooth1\Bluetooth1\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\A634941\Desktop\Bluetooth1\Bluetooth1\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a6440a998b15d0c8b92fbaadc45dfbebe5d570ed\classes.dex" />
+    </item>
+
+</items>
